@@ -1,0 +1,10 @@
+{
+  "name": "flow-type-refinements-example",
+  "version": "0.0.1",
+  "scripts": {
+    "flow": "flow"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.44.2"
+  }
+}
