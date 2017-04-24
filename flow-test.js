@@ -26,7 +26,6 @@ type Action = {
 function reduce(state: any, action: Action) {
     switch (action.type) {
         case 'STRING_ACTION':
-            otherMethod(action);
             logString(action.value);
             break;
         case 'BOOLEAN_ACTION':
